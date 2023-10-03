@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;400;700&family=Roboto:wght@400;700&display=swap');
+
+
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Inter', sans-serif;
+
+}
+
+.container {
+  margin-right: 10%;
+  margin-left: 10%;
+  padding: 50px;
+  padding-top: 0;
+  background-color: rgb(223, 223, 223);
+}
+
+.TOP {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: rgb(132, 44, 44);
+  color: white;
+  height: 250px;
+}
+
+.TOP img {
+  width: 200px;
+  border-radius: 100px;
+  border-color: white;
+  border-style: solid;
+}
+
+.texto #NAME {
+  font-size: 50px;
+}
+
+.infos {
+  margin-top: 20px;
+  font-weight: bold;
+  border-style: solid;
+  border-color: rgb(132, 44, 44);
+  padding: 10px;
+}
+
+.PROFILE {
+  border-color: rgb(132, 44, 44);
+  border-style: solid;
+  padding: 10px;
+}
+
+#text {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+  font-size: 20px; 
+  font-weight: bold; 
+  color: rgb(255, 255, 255);
+  background-color: rgb(132, 44, 44);
+  padding: 5px;
+}
+
+.EDUCATION {
+  border-color: rgb(132, 44, 44);
+  border-style: solid;
+  padding: 10px;
+}
+
+.edut {
+  display: flex;
+  gap: 50px;
+  color: rgb(0, 0, 0);
+}
+
+.OCT2023 {
+  padding-top: 10px;
+  color: rgb(0, 0, 0);
+  display: inline-flex;
+  gap: 50px;
+}
+
+#DATE {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+#headdate {
+  font-weight: bold;
+  padding-bottom: 10px;
+}
+
+.languages ul {
+  margin-left: 50px;
+  font-weight: bold;
+}
+
+
+.skills{
+  font-weight: bold;
+
+  margin-left: 50px;
+}
