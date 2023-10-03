@@ -1,0 +1,50 @@
+body {
+    margin: 50px;
+}
+
+.head {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.PROFILE h4 {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-family: "Roboto",sans-serif;
+    background-color: rgb(255, 183, 0);
+    padding: 10px;
+}
+
+
+.EDUCATION h4 {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-family: "Roboto",sans-serif;
+    background-color: rgb(255, 183, 0);
+    padding: 10px;
+}
+
+#degree {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-family: "Roboto",sans-serif;
+    background-color: rgb(255, 183, 0);
+    padding: 10px;
+}
+
+#LANGUAGE {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-family: "Roboto",sans-serif;
+    background-color: rgb(255, 183, 0);
+    padding: 10px;
+}
+
+#SKILLS {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-family: "Roboto",sans-serif;
+    background-color: rgb(255, 183, 0);
+    padding: 10px;
+}
